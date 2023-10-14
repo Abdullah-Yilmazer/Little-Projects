@@ -4,8 +4,9 @@ This repository marks the central location of a project that houses a portfolio 
 
 ## Projects
 
-> - [To do list](https://deneme.space/To-Do-List/)
-> - [Box Collision Detector](https://deneme.space/Box-Collision-Detector/)
+> - [To do list](https://abdullah-yilmazer.github.io/To-Do-List/)
+> - [Box Collision Detector](https://abdullah-yilmazer.github.io/Box-Collision-Detector/)
+> - [Calculator](https://abdullah-yilmazer.github.io/Calculator)
 
 
 ## Contribute
