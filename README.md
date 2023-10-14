@@ -4,7 +4,7 @@ This repository marks the central location of a project that houses a portfolio 
 
 ## Projects
 
--[To do list]([https://deneme.space/To-Do-List/])
+-[To do list](https://deneme.space/To-Do-List/)
 
 
 ## Contribute
